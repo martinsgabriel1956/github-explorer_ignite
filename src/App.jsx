@@ -1,5 +1,5 @@
-import React from 'react';
+import './styles/global.css';
 
 export function App() {
-  throw new Error('Não implementado');
+  return <h1>Hello ReactJS!</h1>
 }
